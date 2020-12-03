@@ -179,7 +179,7 @@ Ensure the system is configured correctly.
 
 2. Enable remote connections. Find the line that starts with &quot;listen\_addresses&quot; and set this to all by:
 
-   ```listen_addresses='*';```
+   ```listen_addresses='*'```
 
 3. Ensure &quot;port&quot; is in the file (may remain commented)
 
